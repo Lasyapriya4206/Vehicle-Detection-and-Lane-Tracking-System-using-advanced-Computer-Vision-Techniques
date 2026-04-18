@@ -85,7 +85,7 @@ project-folder/
 │── yolov8n.pt
 │── README.md
 │── sample_videos/
-│── output/
+│── requirements.txt
 
 📊 Output Files Explained
 📘 traffic_analysis_log.csv
